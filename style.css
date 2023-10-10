@@ -1,0 +1,40 @@
+div 
+ {display: inline-block;
+ border: 1px solid rgb(255, 255, 255);
+ width: 200px;
+height: 200px;
+font-size: 0px;
+  }
+
+
+.vermelho{
+    background-color:red
+}
+
+.azul{
+    background-color: cyan;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+#borderBlack{
+    border: 3px solid black
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
